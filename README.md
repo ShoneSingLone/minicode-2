@@ -1,5 +1,7 @@
  [中文版](README.zh.md) | [English](README.md)
 
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+
 #### Note: This repository will be deprecated soon, please refer to the new repository in the Tuya Github Organization: https://github.com/tuya/tuya-weapp-demo. 
 
 ## Overview
