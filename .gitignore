@@ -1,1 +1,4 @@
 project.config.json
+cloudfunctions/ty-getClientId/node_modules
+cloudfunctions/ty-service/node_modules
+miniprogram/miniprogram_npm
